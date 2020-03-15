@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TCPclient", "TCPclient\TCPclient.vbproj", "{13265552-3BFE-4E69-9159-445741532984}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TCPServer", "TCPServer\TCPServer.vbproj", "{407D0F48-9185-4E2B-8327-3E6E32734A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13265552-3BFE-4E69-9159-445741532984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13265552-3BFE-4E69-9159-445741532984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13265552-3BFE-4E69-9159-445741532984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13265552-3BFE-4E69-9159-445741532984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407D0F48-9185-4E2B-8327-3E6E32734A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407D0F48-9185-4E2B-8327-3E6E32734A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407D0F48-9185-4E2B-8327-3E6E32734A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407D0F48-9185-4E2B-8327-3E6E32734A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
